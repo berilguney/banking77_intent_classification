@@ -86,7 +86,7 @@ DistilBERT significantly outperformed the traditional machine learning baseline,
 ```text
 .
 ├── banking77_baseline.py
-├── Project_Report.pdf
+├── Project_Report.pdf (TR)
 ├── requirements.txt
 └── README.md
 ```
